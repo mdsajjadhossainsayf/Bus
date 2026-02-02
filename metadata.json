@@ -1,0 +1,5 @@
+{
+  "name": "Bus Route",
+  "description": "An intelligent bus route finder and tracking application for urban and inter-city travel, featuring real-time suggestions and community-driven updates.",
+  "requestFramePermissions": []
+}
