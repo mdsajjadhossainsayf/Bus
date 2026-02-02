@@ -48,9 +48,5 @@ export const getAIBusSuggestions = async (from: string, to: string, lang: 'bn' |
     } else {
       console.warn("Gemini API returned no text content.");
       return null;
-    }
-  } catch (error) {
-    console.error("Gemini API Error:", error);
-    return null;
-  }
-};
+}
+    ;
